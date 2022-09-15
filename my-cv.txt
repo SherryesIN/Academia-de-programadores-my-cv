@@ -25,3 +25,15 @@ Añade un campo de texto para un email, un textarea para un mensaje y un botón 
 
 Crea un branch llamado project-1-html con tu solución y comparte el resultado con nosotros en la caja 
 a continuación.
+
+
+
+Tu Hoja de vida en CSS
+
+De manera individual
+
+En tu repositorio my-cv crea un branch llamado project-2-css
+
+Con base en este diseño, crea tu hoja de vida y dale estilo con lo aprendido en este modulo
+
+Comparte tu solución con nosotros en la caja a continuación
