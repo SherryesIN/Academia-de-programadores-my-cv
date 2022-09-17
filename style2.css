@@ -1,0 +1,96 @@
+
+
+html {
+  min-height: 100%;
+  position: relative;
+  background-color: #7f91b1;
+}
+
+body {
+  margin: 0;
+  margin-bottom: 40px;
+  font-weight: bold;
+  text-align: center;
+  text-shadow: 1px;
+
+}
+.link { color: #cfcae9; } /* CSS link color (red) */
+.link:hover { color: #4d45bb; }
+
+#header {
+	position: fixed;
+	width: 100%;
+	z-index: 999;
+    vertical-align: top;
+    text-shadow: 0.5px;
+    border-style: solid;
+    border-color: rgb(56, 78, 129);
+    font-size: 12pt;
+    font-weight: bold;
+    background: linear-gradient(90deg, rgb(49, 49, 78) 1%, rgb(90, 93, 126) 35%, rgb(56, 78, 129) 90%);
+    color: #04070e;
+	max-width: 200px;
+	padding: 280px 15px;
+	width: 100%;
+    filter: drop-shadow(0 0 8px rgb(4, 4, 7));
+}
+
+ul, ol {
+	margin: 1px;
+	padding: 1px;
+    font-weight: bold;
+}
+  
+h1{
+    color: rgb(227, 229, 248);;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', 'Arial', 'sans-serif';
+    font-size: 25px;
+    font-weight:bold;
+    text-align: center;
+    filter: drop-shadow(0 0 8px rgb(4, 4, 7));}
+
+
+h2, h3 {
+    color: rgb(255, 241, 241, 0.7);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', 'Arial', 'sans-serif';
+    font-size: 25px;
+    font-weight:bold;
+    border-radius: 10px;
+    text-align: center;
+    filter: drop-shadow(0 0 8px rgb(4, 4, 7));
+    }
+
+    p {color:rgb(14, 16, 20); 
+        font-size: 16px;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', 'Arial', 'sans-serif';
+        font-weight: bold;
+        margin-top: 4px;
+        margin-bottom: 4px;
+        margin-left: 245px;
+        margin-right: 70px;
+        border: 10px;
+        background: linear-gradient(90deg, rgb(49, 49, 78) 0%, rgb(90, 93, 126) 35%, rgb(56, 78, 129) 90%); 
+        }
+
+    .block{
+        text-align:center;
+                }
+                
+    .list{
+        text-align: left;
+        display:inline-block;
+                }
+    
+
+footer {
+  background: linear-gradient(90deg, rgb(33, 33, 51) 0%, rgb(90, 93, 126) 35%, rgb(56, 78, 129) 90%); 
+  color: rgb(164, 168, 218);
+  margin-top: 4px;
+  margin-bottom: 4px;
+  margin-left: 245px;
+  margin-right: 70px;}
+
+  img { 
+    filter: drop-shadow(0 0 8px rgb(4, 4, 7));
+    border-radius: 50%;
+}
